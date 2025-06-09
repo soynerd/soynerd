@@ -3,9 +3,9 @@
 <img align = "right" width ="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soynerd&label=Profile%20views&color=0e75b6&style=flat" alt="soynerd" /> </p>
 
-- 🔭 I’m currently working on [College Site](https://iiit-b.onrender.com/)
+- 🔭 I’m currently working on [Portfolio Site](https://soyenrd.co.in/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on **Any idea**
 
